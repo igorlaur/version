@@ -1,3 +1,5 @@
 Aqui estou fazendo um novo teste de versão.
 
 Nova funcionalidade foi lançada, portanto estou lançando a versão 0.2
+
+Nova funcionalidade, 0.3
